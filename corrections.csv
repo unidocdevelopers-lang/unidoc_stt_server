@@ -405,20 +405,20 @@ levocetrizinum,Levocetirizine
 levo-cetrizine  ,Levocetirizine
 levosetirizine ,Levocetirizine
 levosatrizin,Levocetirizine
-bicro  ,Micro
-maikro  ,Micro
-mikro  ,Micro
-maicro  ,Micro
-miycro  ,Micro
-meekro  ,Micro
-mykro  ,Micro
-miccro  ,Micro
-macrow  ,Micro
-mecro  ,Micro
-makro  ,Micro
-micor  ,Micro
-bikro,Micro
-mirkro  ,Micro
+bicro  ,Macro
+maikro  ,Macro
+mikro  ,Macro
+maicro  ,Macro
+miycro  ,Macro
+meekro  ,Macro
+mykro  ,Macro
+miccro  ,Macro
+macrow  ,Macro
+mecro  ,Macro
+makro  ,Macro
+micor  ,Macro
+bikro,Macro
+mirkro  ,Macro
 diabetics  ,Diabetes
 dibetes  ,Diabetes
 daibities  ,Diabetes
@@ -437,6 +437,7 @@ chikkengunia  ,Chikungunya
 chickengunya  ,Chikungunya
 chickangunia  ,Chikungunya
 shikangunya  ,Chikungunya
+chiken gunya,Chikungunya
 chikungania  ,Chikungunya
 asma  ,Asthma
 ashma  ,Asthma
@@ -456,3 +457,79 @@ nemonia  ,Pneumonia
 pnemonia  ,Pneumonia
 pneumania  ,Pneumonia
 neumonia,Pneumonia
+obesetrician,Obstetrician Gynecologist
+obsetrician,Obstetrician Gynecologist
+obstretician,Obstetrician Gynecologist
+obstetricion,Obstetrician Gynecologist
+obstechrician,Obstetrician Gynecologist
+ob gyne,Obstetrician Gynecologist
+objiyn,Obstetrician Gynecologist
+objyn,Obstetrician Gynecologist
+obg y n,Obstetrician Gynecologist
+obie gyn,Obstetrician Gynecologist
+object gynecologist,Obstetrician Gynecologist
+obstetric and gynecologist,Obstetrician Gynecologist
+obstetric gynecologist,Obstetrician Gynecologist
+obgyn,Obstetrician Gynecologist
+obgin,Obstetrician Gynecologist
+obz gyn,Obstetrician Gynecologist
+obis gyn,Obstetrician Gynecologist
+opstick gynacologist,Obstetrician Gynecologist
+abgyn,Obstetrician Gynecologist
+laprascop,Laparoscopy
+laproscopy,Laparoscopy
+laproskopy,Laparoscopy
+laproscopi,Laparoscopy
+ibf,IVF
+i v f,IVF
+ivt,IVF
+ivf cycle,IVF
+pcosh,PCOS
+p c o s,PCOS
+pcs,PCOS
+pcost,PCOS
+dubh,DUB
+d u b,DUB
+dee you bee,DUB
+deeb,DUB
+menorajia,Menorrhagia
+menohrahgia,Menorrhagia
+menorragea,Menorrhagia
+menorajeea,Menorrhagia
+fibroyd,Fibroid
+five roid,Fibroid
+fibe roid,Fibroid
+fibrite,Fibroid
+fib ride,Fibroid
+endomatriosis,Endometriosis
+endumetriosis,Endometriosis
+endometriousis,Endometriosis
+endometreosis,Endometriosis
+utress,Uterus
+utrece,Uterus
+utarus,Uterus
+utaris,Uterus
+histeroscopy,Hysteroscopy
+hystroscopy,Hysteroscopy
+his troscopy,Hysteroscopy
+histerescopy,Hysteroscopy
+hysterscopy,Hysteroscopy
+spekulum,Speculum
+speculam,Speculum
+specculum,Speculum
+spaculum,Speculum
+servix,Cervix
+sarvix,Cervix
+surfix,Cervix
+service,Cervix
+overies,Ovaries
+overy,Ovary
+ovarys,Ovaries
+ovulasion,Ovulation
+ovualtion,Ovulation
+ovolaition,Ovulation
+ovolation,Ovulation
+falikle,Follicle
+follikel,Follicle
+folicle,Follicle
+folikule,Follicle
