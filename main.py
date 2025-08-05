@@ -188,3 +188,24 @@ class CorrectionInput(BaseModel):
 async def correct_text(data: CorrectionInput):
     corrected = correct_transcript(data.text, corrections)
     return {"original": data.text, "corrected": corrected}
+
+# NEW ENDPOINTS FOR ADMIN FEATURES
+@app.get("/health")
+async def health_check():
+    return {"status": "healthy", "message": "API is working"}
+
+@app.get("/stats")
+async def get_stats():
+    return {
+        "total_corrections_available": len(corrections),
+        "total_incorrect_words_found": 0,
+        "recent_incorrect_words": []
+    }
+
+@app.get("/incorrect-words")
+async def get_incorrect_words():
+    return {
+        "incorrect_words": [],
+        "total_count": 0,
+        "recent_words": []
+    }
